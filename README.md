@@ -31,6 +31,6 @@ If you’d like to reach out or collaborate:
 - **Email:** eeshakarpuradu@gmail.com  
 - **Discord:** (your Discord ID here)
 
-## 💙 Acknowledgements
+## Acknowledgements
 Thanks for checking out my portfolio!  
 Built with love, late-night energy, and lots of creativity 💛
