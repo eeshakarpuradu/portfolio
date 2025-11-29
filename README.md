@@ -24,13 +24,13 @@ Each project card flips on hover and takes you to the GitHub repo when clicked!
 
 ## Live Demo
 👉 *Hosted using GitHub Pages*  
-(https://eeshakarpuradu.github.io/portfolio/)
+https://eeshakarpuradu.github.io/portfolio/
 
 ## Contact
 If you’d like to reach out or collaborate:
-- **Email:** eeshakarpuradu@gmail.com  
-- **Discord:** (your Discord ID here)
+- **Email:** eeshak0503@gmail.com  
+- 
 
-## Acknowledgements
+
 Thanks for checking out my portfolio!  
-Built with love, late-night energy, and lots of creativity 💛
+
